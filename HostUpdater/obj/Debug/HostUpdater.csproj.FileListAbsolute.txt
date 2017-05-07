@@ -1,0 +1,5 @@
+E:\HostUpdater\HostUpdater\HostUpdater\bin\Debug\HostUpdater.exe
+E:\HostUpdater\HostUpdater\HostUpdater\bin\Debug\HostUpdater.pdb
+E:\HostUpdater\HostUpdater\HostUpdater\obj\Debug\HostUpdater.csprojResolveAssemblyReference.cache
+E:\HostUpdater\HostUpdater\HostUpdater\obj\Debug\HostUpdater.exe
+E:\HostUpdater\HostUpdater\HostUpdater\obj\Debug\HostUpdater.pdb
