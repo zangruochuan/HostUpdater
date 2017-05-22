@@ -1,3 +1,5 @@
 HostUpdater/bin/
 HostUpdater/obj/
 *.suo
+/packages/Newtonsoft.Json.10.0.2
+/packages/Newtonsoft.Json.10.0.2
